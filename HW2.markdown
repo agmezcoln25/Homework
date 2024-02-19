@@ -5,12 +5,16 @@ permalink: /HW2/
 ---
 
 <head>
-  <title>"This is a heading"</title>
-  <h1>Here's a smaller heading</h1>
+  <h1>This is a heading</h1>
+  <h2>Here's a smaller heading</h2>
 </head>
 <body>
-  <p>"This is a paragraph"</p>
-  <p>**This will be bold** _This will be underlined_</p> 
+  <p>This is a paragraph</p>
+  
+  **this will be bold**
+  ~~this will be strike through~~
+  __this will be underlined__
+  
   <h1>Lists</h1>
   <h2>Unordered</h2>
   
@@ -24,32 +28,17 @@ permalink: /HW2/
   1. item 1
   2. item 2
   3. item 3
-     * item 3a
+     1. item 3a
+
+  <h1>Table</h1>
+  
+  |   Command   | Description |
+  | ----------: | :----------- |
+  | git add | Stage changes for commit |
+  | git commit | Record changes to the repository |
+  | git push | Upload local repository content to a remote repository |
+  
+  > This is a quote
+  
+  [This is a link to Google](https://www.google.com)
 </body>
-
-Problem 3: 
-* Apple
-* Banana
-* Orange
-
-Problem 4: 
-1. Strawberry
-2. Blueberry
-3. Raspberry
-
-Problem 5: 
-1. Fruits
-    * Apple
-    * Banana
-    * Orange
-2. Berries
-    * Strawberry
-    * Blueberry
-    * Raspberry
-
-Problem 6: $y=ax+b$
-
-Problem 7: $x^4_1 + x^3_2 + x ^2_3 + x_4$
-
-Problem 8: 
-![Screenshot of Markdown Logo]("C:\WebProgramming_Spring24\Example_Jekyll\WP-ExampleWP\site\assets\MarkdownLogo-1.png")
