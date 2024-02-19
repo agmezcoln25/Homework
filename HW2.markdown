@@ -6,9 +6,9 @@ permalink: /HW2/
 
 <head>
   <h1>This is a heading</h1>
-  <h2>Here's a smaller heading</h2>
 </head>
 <body>
+  <h3>Here's a smaller heading</h3>
   <p>This is a paragraph</p>
   
   **this will be bold**
